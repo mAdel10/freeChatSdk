@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">freeChatSdk</string>
+    <string name="freshchat_file_provider_authority">com.example.demoapp.provider</string>
+    <string name="click_for_chat">اضغط للمحادثة</string>
+    <string name="change_language_ar">العربية</string>
+    <string name="change_language_en">English</string>
+    <string name="freshchat_activity_title_channel_list">محادثات</string>
+    <string name="freshchat_chat_message_composer_hint">اكتب الرسالة</string>
+    <string name="freshchat_typically_replies_within_a_minute">الرد في خلال دقيقة</string>
+</resources>
